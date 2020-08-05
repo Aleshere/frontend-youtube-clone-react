@@ -1,3 +1,28 @@
+# Youtube Clone built with React (Frontend only)
+
+# What I reviewed building this
+
+> BEM css styling  
+> Material UI framework (Icons and Avatar)
+> React Router  
+> useState to keep track of input value states (for search bar) 
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+## About
+
+* The project is a frontend replica of youtube built with React. Basic stuff really
+* Project status: working.
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+## And this the usual react boilerplate stuff
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
